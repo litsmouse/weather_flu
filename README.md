@@ -8,7 +8,7 @@ A Flutter Weather App, developed with Bloc, Clean Architecture Get_it and TDD(Te
 
 ### Open Weather Map API Key is required.
 
-In order for the Sunshine app to function properly as of October 18th, 2015 an API key for openweathermap.org must be included with the build.
+In order for the Weather app to function properly as of 2024 an API key for openweathermap.org must be included with the build.
 
 We recommend that each student obtain a key via the following [instructions](http://openweathermap.org/appid#use), and include the unique key for the build by adding the following line to [USER_HOME]/.gradle/gradle.properties
 
