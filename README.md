@@ -1,4 +1,4 @@
-# Sun Shine
+# Weather Apps
 
 A Flutter Weather App, developed with Bloc, Clean Architecture Get_it and TDD(Text Driven Development).
 
